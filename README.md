@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/tsypuk/javasecurity.svg?branch=master)](https://travis-ci.org/tsypuk/javasecurity)
+[![Build Status](https://travis-ci.org/tsypuk/JavaSecurity.svg?branch=master)](https://travis-ci.org/tsypuk/JavaSecurity)
 [![star this repo](http://githubbadges.com/star.svg?user=tsypuk&repo=javasecurity&style=default)](https://github.com/tsypuk/javasecurity)
 [![fork this repo](http://githubbadges.com/fork.svg?user=tsypuk&repo=javasecurity&style=default)](https://github.com/tsypuk/javasecurity/fork)
 
