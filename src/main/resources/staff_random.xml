@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE order [
+        <!ELEMENT foo ANY >
+        <!ENTITY xxe SYSTEM "file://dev/random" >
+        ]>
+<company>
+    <staff id="1001">
+        <firstname>Homer</firstname>
+        <lastname>Simpson</lastname>
+        <nickname>nuclear</nickname>
+        <salary>1</salary>
+        <password>pass</password>
+    </staff>
+</company>
